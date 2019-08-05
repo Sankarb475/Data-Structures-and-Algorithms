@@ -15,3 +15,12 @@ len(S): Return the number of elements in stack S
 more efficient in practice to construct a list with initial length n than it is to start with an empty list and append n items (even
 though both approaches run in O(n) time). So we might wanna create a stack class, the constructor of which will ask for the maximum number
 of element we would be pushing into the stack.
+
+#traversing and poping through a Stack
+while not stack.is_empty():
+    stack.pop()
+    
+#Pushing a list element into a stack
+for i in list1:
+    stack.push(i)
+    
