@@ -1,0 +1,50 @@
+Interview Experience 1 => from Leetcode
+==================================================================================================================================
+Uber batch in March:
+
+System Design: Uber backend
+
+Live coding: Given an excel sheet with a cell (x, y), implement
+a. get(x,y) - get the value in cell
+b. set(x,y) - set value in cell
+c. reflect(a,b,x,y) - whatever value in (x,y) gets assigned to (a,b) and changes made to it changes (a,b)
+d unreflect(a,b) - keep whatever value is there currently and remove link
+
+Behavioral - Conflicts at work, most difficult technical problem at work, meeting tough deadlines, why Uber
+
+Algos and DS: Given a set of links - a -> b, b-> c write code to implement get(a) and return c , scenarios where there can be loops,
+no loops, how to make it faster etc
+
+Decision: Did well in everything except behavioral, they asked me to reapply in 2 months.
+
+Google Onsite interview - virtual :
+
+System design: design a notification system
+
+Given a 2x4 array like [[1 4 3 2],[5 7 8 6]], you can do three operations on it,
+a. Rotate the center elements clockwise
+b. Rightshift all the elements
+c. swap rows
+Write code to achieve a desired array eg: [[1 2 3 4][5 6 7 8]]
+
+Convert binary tree to a doubly linked list
+
+For a number, return if it's lucky or not, suppose you are given an array of validDigits and validLengths. Determine of a number is 
+sum of two lucky numbers
+
+Googleness - Conflicts at work, feedback about me from peers, etc
+
+Decision: Reject (Did quite well but got nervous when the interviewers had technial issues)
+
+FB onsite interview - virtual
+Had three rounds of coding, one behavioral and one system desgin
+
+Coding : https://leetcode.com/problems/range-sum-of-bst/ and an making queries faster
+Behavioral - Most interesting project, conflicts at work & feedback received from my manager about me
+Coding - https://leetcode.com/problems/word-break-ii/ and https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+Coding: https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/ one Similar to this 
+and https://leetcode.com/problems/binary-tree-right-side-view/
+System design: Uber backend
+
+Interview Experience 2 => from Leetcode
+==================================================================================================================================
