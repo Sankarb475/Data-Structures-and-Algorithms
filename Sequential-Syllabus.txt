@@ -1,0 +1,62 @@
+Topics to be covered written sequentially
+=======================================================================================================================================
+Data Structures 
+=============================
+
+1) Algorithm Analysis - Big O notation 
+(solve problems where you need to find the complexity, and make a habit of finding out the complexity of each problem you are trying 
+to solve from now on)
+
+
+2) Recursion - Go through the basics, learn to find the complexity of a recursive solution 
+(Solve some basic recursion problem)
+
+
+3) LinkedList - Start with creating the data structure 
+(solve all the standard problems using LinkedList, try to find out situations where Linkedlist solution fits the best)
+
+
+4) Stacks, queues, and deques
+(solve all the standard problems using LinkedList, try to find out situations where Linkedlist solution fits the best)
+
+
+5) Trees - types of trees and the scenarios where it fits the best
+
+
+6) Binary search Trees 
+
+
+7) Balanced binary search trees 
+
+
+8) Priority queues and Heaps 
+
+
+9) Union find structures
+
+
+10) Sorting and selection - Merge and quick sort, and bucket sort and radix sort
+
+
+Algorithms
+========================
+1) The greedy method => where it fits in the best 
+
+
+2) Divide and conquer
+
+
+3) Dynamic programming 
+
+
+4) Graphs and traversals 
+
+
+5) Graph algorithms => Shortest path, minimum spanning trees, network flow & matching, 
+
+
+
+Notes
+======================================================================================================================================
+1) While solving coding problems, dont spend hours in one problem, at times you will realize to develop the solution, you need help, 
+get help and solve but make sure to learn it as well.
