@@ -60,3 +60,23 @@ Notes
 ======================================================================================================================================
 1) While solving coding problems, dont spend hours in one problem, at times you will realize to develop the solution, you need help, 
 get help and solve but make sure to learn it as well.
+
+
+Phase 1: Knowing Algorithm Complexity, Design, & Analysis: It's fairly critical that you understand big-O complexity analysis. With recursion and iteration analysis.
+
+Phase 2 : Sorting: Know how to sort.  Know the details of at least one n*log(n) sorting algorithm, preferably two (say, quicksort and merge sort). Merge sort is known to be highly useful sorting algorithm
+
+Phase 3: Hashtables: Most important data structure known.  You absolutely should know how they work with their implementation.
+
+Phase 4: Graphs and Trees: Know about these basic tree construction, traversal and manipulation algorithms. Traversal algorithms BFS and DFS and their orders. Familiarize yourself with binary trees, n-ary trees, and trie-trees. Knowing these topics is extremely useful with their implementation in any language you like balanced binary tree, whether it's a red/black tree, a splay tree or an AVL tree.
+
+Phase 5: Dynamic Programming and Greedy algorithms: Best real world problems fall in this phase.
+
+You can follow these courses on Coursera:
+Coursera
+
+Online Solving Problems with efficient algorithms:
+CodingBat
+Sphere Online Judge (SPOJ)
+LeetCode
+About - Project Euler
