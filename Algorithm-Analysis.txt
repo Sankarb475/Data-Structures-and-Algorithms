@@ -1,0 +1,3 @@
+Analyzing Algorithms
+=========================================================================================================================================
+we are interested in determining the dependency of the running time on the size of the input.
