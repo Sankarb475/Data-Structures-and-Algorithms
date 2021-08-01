@@ -4,6 +4,17 @@
 
 arr = [-12, 11, -13, -5, 6, -7, 5, -3, -6,7,6,-12]
 
+# O(N)
+j = 0
+for i in range(len(arr)):
+    if arr[i] < 0:
+        arr[i], arr[j] = arr[j], arr[i]
+        j = j + 1
+        
+print(arr)
+
+
+# O(N^2)
 for i in range(len(arr)):
     if arr[i] > 0:
         for j in range(i+1, len(arr)):
